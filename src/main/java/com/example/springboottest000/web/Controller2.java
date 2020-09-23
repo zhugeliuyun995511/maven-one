@@ -8,6 +8,6 @@ public class Controller2 {
     @RequestMapping("hello")
     String hello()
     {
-        return "hello world0014";
+        return "hello world0015";
     }
 }
